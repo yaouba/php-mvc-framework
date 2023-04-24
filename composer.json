@@ -1,0 +1,15 @@
+{
+    "name": "zaziz/php-mvc-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "yaouba",
+            "email": "kabayyaouba@gmail.com"
+        }
+    ],
+    "require": {}
+}
